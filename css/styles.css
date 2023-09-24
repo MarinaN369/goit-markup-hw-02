@@ -106,8 +106,12 @@ ul {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
+  color: #2e2f42;
 }
 .our-team-list {
+  background-color: #ffffff;
+}
+.our-team-item {
   background-color: #ffffff;
 }
 
@@ -132,6 +136,7 @@ ul {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
+  color: #2e2f42;
 }
 .our-portfolio-subtitle {
   font-size: 20px;
